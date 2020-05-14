@@ -5,11 +5,11 @@
 
 /*Component files*/
 
-@import url("components/container.css");
-@import url("components/banner.css");
-@import url("components/btn-blue.css");
-@import url("components/card.css");
-@import url("components/topnav.css");
+@import url("container.css");
+@import url("banner.css");
+@import url("btn-blue.css");
+@import url("card.css");
+@import url("topnav.css");
 /* General styles*/
 
 h1,h2,h3{
