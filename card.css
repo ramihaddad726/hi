@@ -1,0 +1,97 @@
+.card{
+
+	margin:25px;
+	padding: 40px;
+	background: white;
+	border-radius: 7px;
+	box-shadow: 4px 4px 20px rgba(0,0,0,0.1);
+	text-align: center;
+
+}
+.cards {
+  display: flex;
+	flex-wrap: wrap;
+}
+.card{
+  flex-basis: 250px;
+	flex-grow: 1;
+	margin: 10px;
+}
+.card h2{
+	color: white;
+	opacity: 0.95;
+}
+#maldives {
+	background-image: url("../../images/maldives.jpeg");
+	background-size: cover;
+	background-position: center;
+
+}
+#africa {
+	background-image: url("../../images/africa.jpeg");
+	background-size: cover;
+	background-position: center;
+
+}
+#sahara {
+	background-image: url("../../images/sahara.jpeg");
+	background-size: cover;
+	background-position: center;
+
+}
+#australia {
+	background-image: url("../../images/australia.jpeg");
+	background-size: cover;
+	background-position: center;
+
+}
+#newyork {
+	background-image: url("../../images/newyork.jpeg");
+	background-size: cover;
+	background-position: center;
+
+}
+#everest {
+	background-image: url("../../images/everest.jpeg");
+	background-size: cover;
+	background-position: center;
+
+}
+
+
+
+#maldives {
+  background-image:
+    /* Transparent gradient above */
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("../../images/maldives.jpeg");
+} 
+#africa {
+  background-image:
+    /* Transparent gradient above */
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("../../images/africa.jpeg");
+} 
+#sahara {
+  background-image:
+    /* Transparent gradient above */
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("../../images/sahara.jpeg");
+} 
+#everest {
+  background-image:
+    /* Transparent gradient above */
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("../../images/everest.jpeg");
+} 
+#newyork {
+  background-image:
+    /* Transparent gradient above */
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("../../images/newyork.jpeg");
+} 
+#australia {
+  background-image:
+    /* Transparent gradient above */
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("../../images/australia.jpeg");
+} 
+
+
+
+
+
