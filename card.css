@@ -22,37 +22,37 @@
 	opacity: 0.95;
 }
 #maldives {
-	background-image: url("images/maldives.jpeg");
+	background-image: url("maldives.jpeg");
 	background-size: cover;
 	background-position: center;
 
 }
 #africa {
-	background-image: url("images/africa.jpeg");
+	background-image: url("africa.jpeg");
 	background-size: cover;
 	background-position: center;
 
 }
 #sahara {
-	background-image: url("images/sahara.jpeg");
+	background-image: url("sahara.jpeg");
 	background-size: cover;
 	background-position: center;
 
 }
 #australia {
-	background-image: url("images/australia.jpeg");
+	background-image: url("australia.jpeg");
 	background-size: cover;
 	background-position: center;
 
 }
 #newyork {
-	background-image: url("images/newyork.jpeg");
+	background-image: url("newyork.jpeg");
 	background-size: cover;
 	background-position: center;
 
 }
 #everest {
-	background-image: url("images/everest.jpeg");
+	background-image: url("everest.jpeg");
 	background-size: cover;
 	background-position: center;
 
@@ -63,32 +63,32 @@
 #maldives {
   background-image:
     /* Transparent gradient above */
-    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("images/maldives.jpeg");
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("maldives.jpeg");
 } 
 #africa {
   background-image:
     /* Transparent gradient above */
-    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("images/africa.jpeg");
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("africa.jpeg");
 } 
 #sahara {
   background-image:
     /* Transparent gradient above */
-    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("images/sahara.jpeg");
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("sahara.jpeg");
 } 
 #everest {
   background-image:
     /* Transparent gradient above */
-    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("images/everest.jpeg");
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("everest.jpeg");
 } 
 #newyork {
   background-image:
     /* Transparent gradient above */
-    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("images/newyork.jpeg");
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("newyork.jpeg");
 } 
 #australia {
   background-image:
     /* Transparent gradient above */
-    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("images/australia.jpeg");
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 80%), url("australia.jpeg");
 } 
 
 
